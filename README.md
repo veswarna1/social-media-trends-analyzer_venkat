@@ -24,3 +24,6 @@ A Data Engineering and Analytics project that identifies trending places, events
 - Instagram integration
 - Facebook integration
 - Real-time dashboard
+## Author
+
+Venkata Swarna
